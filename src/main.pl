@@ -12,7 +12,7 @@ banner :-
     format("~n================================================~n"),
     format("  Sistema Especialista - Folha de Pagamento~n"),
     format("================================================~n"),
-    format("Desenvolvido por: [Seu Nome] (@seu-github)~n~n").
+    format("Desenvolvido por: [Heron Zonta da Silva] (@HeronZS)~n~n").
 
 % Menu principal com opções para o usuário
 menu :-
